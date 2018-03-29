@@ -51,12 +51,12 @@
 	<?php
 	require_once "@include-header-principal.php";
 	require_once "@include-banner-principal.php";
-	require_once "@area-sobre.php";
-	require_once "@area-caracteristicas.php";
-	require_once "@area-produtos.php";
-	require_once "@area-clientes.php";
-	require_once "@area-perguntas.php";
-	require_once "@area-formulario.php";
+	require_once "@include-sobre.php";
+	require_once "@include-caracteristicas.php";
+	require_once "@include-produtos.php";
+	require_once "@include-clientes.php";
+	require_once "@include-perguntas.php";
+	require_once "@include-formulario.php";
 	require_once "@include-footer-principal.php";
 	?>
     <!--jQuery JS-->

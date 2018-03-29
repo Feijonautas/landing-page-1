@@ -5,7 +5,7 @@
 		<div class="container">
 			<!-- Start Atribute Navigation -->
 			<div class="attr-nav">
-				<a href="#">Buy Now</a>
+				<a href="#">Compre Agora</a>
 			</div>
 			<!-- End Atribute Navigation -->
 
@@ -14,20 +14,20 @@
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 					<i class="icofont icofont-navigation-menu"></i>
 				</button>
-				<a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" class="logo" alt=""></a>
+				<a class="navbar-brand" href="index.php"><img src="assets/images/logo-efectus.png" class="logo" alt=""></a>
 			</div>
 			<!-- End Header Navigation -->
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="navbar-menu">
 				<ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">
-					<li class="active"><a href="#header">Home</a></li>
-					<li><a href="#about-area">About</a></li>
-					<li><a href="#features-area">Features</a></li>
-					<li><a href="#product-area">Product</a></li>
-					<li><a href="#testimonial-area">Testimonial</a></li>
-					<li><a href="#faq-area">FAQ</a></li>
-					<li><a href="#contact-area">Contact</a></li>
+					<li class="active"><a href="#header">Início</a></li>
+					<li><a href="#about-area">Sobre</a></li>
+					<li><a href="#features-area">Benefícios</a></li>
+					<li><a href="#product-area">Produtos</a></li>
+					<li><a href="#testimonial-area">Clientes</a></li>
+					<li><a href="#faq-area">Perguntas</a></li>
+					<li><a href="#contact-area">Contato</a></li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->

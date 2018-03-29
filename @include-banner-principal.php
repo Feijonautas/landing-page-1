@@ -17,9 +17,9 @@
 				<!--Start Slide Content-->
 				<div class="col-sm-6">
 					<div class="slide-content">
-						<h2>Awesome and Attractive Watch. It is Best For Personal Use.</h2>
+						<h2>Relógio incrível e atrativo. É o melhor para uso pessoal.</h2>
 						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit</p>
-						<a href="#">Buy Now</a>
+						<a href="#">Compre Agora</a>
 					</div>
 				</div>
 				<!--End Slide Content-->
@@ -43,9 +43,9 @@
 				<!--Start Slide Content-->
 				<div class="col-sm-6">
 					<div class="slide-content">
-						<h2>Various Color's Modern Watches are Available.</h2>
+						<h2>Varias cores modernas de relógios estão disponiveis.</h2>
 						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit</p>
-						<a href="#">Buy Now</a>
+						<a href="#">Compre Agora</a>
 					</div>
 				</div>
 				<!--End Slide Content-->
@@ -69,9 +69,9 @@
 				<!--Start Slide Content-->
 				<div class="col-sm-6">
 					<div class="slide-content">
-						<h2>1 Year Replacement Guarantee. Why Late? Buy Now!</h2>
+						<h2>1 Ano de garantia. Por que esperar? Compre Agora!</h2>
 						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit</p>
-						<a href="#">Buy Now</a>
+						<a href="#">Compre Agora</a>
 					</div>
 				</div>
 				<!--End Slide Content-->

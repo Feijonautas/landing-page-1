@@ -4,9 +4,9 @@ if(isset($_POST['nome']) && !empty($_POST['nome'])){
 	$email = addslashes($_POST['email']);
 	$pergunta = addslashes($_POST['pergunta']);
 	
-	$para = "yuridemeello@gmail.com";
+	$para = $email;
 	$assunto = "Pergunta";
-	$corpo = "nome".$nome."e-mail".$email."msg".$pergunta;
+	$corpo = "Nome do usuarios: $nome e-mail: $email Dúvida do usuarios: $pergunta";
 	$titulo = "From: yuridemeello@gmail.com"."\r\n".
 			  "Reply-To: ".$email."\r\n".
 			  "X-Mailer: PHP/".phpversion();
